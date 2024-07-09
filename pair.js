@@ -57,22 +57,22 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_IBRAHIM_TECH.sendMessage(Pair_Code_By_IBRAHIM_TECH.user.id, { text: '' + b64data });
 
                let IBRAHIM_TECH_TEXT = `
-*_Pair Code for IBRAHIM-TECH Connected_*
+*_Pair Code for GEEK-TECH Connected_*
 *_Made With 🔱_*
-*By IBRAHIM ADAMS*
+*By RUBEN*
 ______________________________________
 ╔════◇
-║ *『 IBRAHIM-TECH OFFICIAL 』*
+║ *『 RICHY-TECH 』*
 ║ _YOU HAVE SUCCESSFULLY SELECTED THE BEST BOT._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://wa.me/message/74F2PC4JA4F3P1_
-║❒ *Owner:* _https://wa.me/message/74F2PC4JA4F3P1_
-║❒ *Repo:* _https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main_
-║❒ *WaGroup:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
-║❒ *WaChannel:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
-║❒ *Plugins:* _https://github.com/Ibrahimaitech/Ibrahim-bot-md-plugins_
+║
+║❒ *Owner:* _https://wa.me/message/237620857930_
+║❒ *Repo:* _https://github.com/GEEKMDXINC/Richy-MD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a_
+║ copyright by Ruben 
 ╚══════════════════════╝ 
 _____________________________________
 
